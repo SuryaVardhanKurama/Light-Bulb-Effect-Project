@@ -1,1 +1,1 @@
-# Light-Bulb-Effect-Project
+# javascript-light-switch-project
